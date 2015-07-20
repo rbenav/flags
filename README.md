@@ -1,0 +1,2 @@
+# flags
+flgs applications
